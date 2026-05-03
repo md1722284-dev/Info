@@ -25,7 +25,7 @@ def extract_token_from_response(data, region):
 def get_jwt_token_sync(region):
     global jwt_token
     endpoints = {
-        "IND": "https://free-fire-official-jwt-token-api.vercel.app/token?uid={uid}&password={password}",
+        "IND": "https://free-fire-official-jwt-token-api.vercel.app/token?uid=4434743903&password=sb_NLCF4_BY_SPIDEERIO_GAMING_7GC2E",
         "BR": "https://free-fire-official-jwt-token-api.vercel.app/token?uid={uid}&password={password}",
         "US": "https://free-fire-official-jwt-token-api.vercel.app/token?uid={uid}&password={password}",
         "SAC": "https://free-fire-official-jwt-token-api.vercel.app/token?uid={uid}&password=https://free-fire-official-jwt-token-api.vercel.app/",
